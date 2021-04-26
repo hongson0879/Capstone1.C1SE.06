@@ -12,14 +12,6 @@
         android:layout_weight="1"
         android:background="#4baf4f">
 
-        <ImageButton
-            android:id="@+id/img_btn_quaylui"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_weight="5"
-            app:srcCompat="@drawable/quaylui" />
-
         <TextView
             android:id="@+id/textView"
             android:layout_width="match_parent"
