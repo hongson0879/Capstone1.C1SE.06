@@ -11,7 +11,7 @@
 9-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:5:5-23:19
+11-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:5:5-25:19
 12        android:allowBackup="true"
 12-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,32 +28,38 @@
 19        android:testOnly="true"
 20        android:theme="@style/Theme.Retp" >
 20-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:11:9-42
-21        <activity android:name="com.example.retp.activity_login" />
-21-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:12:9-61
-21-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:12:19-49
-22        <activity android:name="com.example.retp.activity_profile" />
-22-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:13:9-54
-22-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:13:19-51
-23        <activity android:name="com.example.retp.activity_registration" />
-23-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:14:9-59
-23-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:14:19-56
-24        <activity android:name="com.example.retp.activity_home" />
-24-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:15:9-51
-24-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:15:19-48
-25        <activity android:name="com.example.retp.MainActivity" >
-25-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:16:9-22:20
-25-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:16:19-47
-26            <intent-filter>
-26-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:17:13-21:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:17-69
-27-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:17-77
-29-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:27-74
-30            </intent-filter>
-31        </activity>
-32    </application>
-33
-34</manifest>
+21        <activity android:name="com.example.retp.activity_xemnha" />
+21-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:12:9-62
+21-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:12:19-50
+22        <activity android:name="com.example.retp.activity_menu" />
+22-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:13:9-51
+22-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:13:19-48
+23        <activity android:name="com.example.retp.activity_profile" />
+23-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:14:9-54
+23-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:14:19-51
+24        <activity android:name="com.example.retp.activity_sellhouse" />
+24-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:15:9-56
+24-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:15:19-53
+25        <activity android:name="com.example.retp.activity_login" />
+25-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:16:9-52
+25-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:16:19-49
+26        <activity android:name="com.example.retp.activity_registration" />
+26-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:17:9-59
+26-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:17:19-56
+27        <activity android:name="com.example.retp.MainActivity" >
+27-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:9-24:20
+27-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:19-47
+28            <intent-filter>
+28-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:17-69
+29-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:22:17-77
+31-->E:\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

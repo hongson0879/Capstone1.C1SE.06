@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity_menu">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4baf4f"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/img_btn_quaylui"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="390dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            app:srcCompat="@drawable/arrow" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_Profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Profile"
+            android:textColor="#121212"
+            android:textSize="18sp"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            app:backgroundTint="#F8F4F4"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btn_sellhouse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Sell House"
+            android:layout_margin="5dp"
+            android:textColor="#0C0C0C"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:backgroundTint="#F8F5F5" />
+
+        <Button
+            android:id="@+id/btn_logout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Log out"
+            android:gravity="left"
+            android:layout_margin="5dp"
+            android:textSize="18sp"
+            android:textColor="#070707"
+            android:textStyle="bold"
+            app:backgroundTint="#F6F2F2" />
+    </LinearLayout>
+</LinearLayout>

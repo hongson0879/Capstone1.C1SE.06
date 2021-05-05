@@ -18,10 +18,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Retp" >
-        <activity android:name="com.example.retp.activity_login" />
+        <activity android:name="com.example.retp.activity_xemnha" />
+        <activity android:name="com.example.retp.activity_menu" />
         <activity android:name="com.example.retp.activity_profile" />
+        <activity android:name="com.example.retp.activity_sellhouse" />
+        <activity android:name="com.example.retp.activity_login" />
         <activity android:name="com.example.retp.activity_registration" />
-        <activity android:name="com.example.retp.activity_home" />
         <activity android:name="com.example.retp.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
