@@ -15,6 +15,8 @@ com/example/retp/MainActivity.java
  com.example.retp.MainActivity$2
  com.example.retp.MainActivity$3
  com.example.retp.MainActivity$4
+com/example/retp/User.java
+ com.example.retp.User
 com/example/retp/BuildConfig.java
  com.example.retp.BuildConfig
 com/example/retp/activity_profile.java
@@ -25,3 +27,9 @@ com/example/retp/activity_sellhouse.java
  com.example.retp.activity_sellhouse$1
 com/example/retp/activity_registration.java
  com.example.retp.activity_registration
+com/example/retp/admin.java
+ com.example.retp.admin
+com/example/retp/home.java
+ com.example.retp.home
+com/example/retp/repost.java
+ com.example.retp.repost

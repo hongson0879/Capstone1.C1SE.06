@@ -79,6 +79,28 @@
             android:layout_height="match_parent">
 
             <TextView
+                android:id="@+id/textView17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="User name:"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/edt_username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="textPersonName" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
                 android:id="@+id/textView4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -142,7 +164,7 @@
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent" >
 
             <TextView
                 android:id="@+id/textView7"
@@ -165,11 +187,13 @@
     </TableLayout>
 
     <Button
-        android:id="@+id/btn_dangky"
+        android:id="@+id/btn_registration"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
         android:layout_weight="1"
-        android:text="registration"
+        android:textSize="20sp"
+        android:text="Registration"
+        android:layout_margin="10dp"
         app:backgroundTint="#4baf4f" />
+
 </LinearLayout>

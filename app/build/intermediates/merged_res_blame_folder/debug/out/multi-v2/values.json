@@ -1,23 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Capstone1.C1SE.06\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "E:\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "41",
-                        "endOffsets": "54"
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "293,57,105,153,201,247,336",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "330,99,147,195,241,287,373"
                     },
                     "to": {
-                        "startLines": "1042",
-                        "startColumns": "4",
-                        "startOffsets": "61046",
-                        "endColumns": "41",
-                        "endOffsets": "61083"
+                        "startLines": "403,491,492,493,504,505,508",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "19541,25534,25581,25628,26372,26417,26583",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "19578,25576,25623,25670,26412,26457,26620"
                     }
                 },
                 {
@@ -40,25 +40,6 @@
                     }
                 },
                 {
-                    "source": "E:\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "827"
-                    },
-                    "to": {
-                        "startLines": "3752",
-                        "startColumns": "4",
-                        "startOffsets": "249120",
-                        "endLines": "3764",
-                        "endColumns": "12",
-                        "endOffsets": "249831"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\76a75c6502d93031e6f1d463ce4e8940\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -75,23 +56,6 @@
                         "endLines": "313,650,651,652,660,661,662,943,7174",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "14897,36069,36117,36173,36859,36935,37007,55280,465112"
-                    }
-                },
-                {
-                    "source": "E:\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "293,57,105,153,201,247,336",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "330,99,147,195,241,287,373"
-                    },
-                    "to": {
-                        "startLines": "403,491,492,493,504,505,508",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "19541,25534,25581,25628,26372,26417,26583",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "19578,25576,25623,25670,26412,26457,26620"
                     }
                 },
                 {
@@ -188,6 +152,25 @@
                     }
                 },
                 {
+                    "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "827"
+                    },
+                    "to": {
+                        "startLines": "3752",
+                        "startColumns": "4",
+                        "startOffsets": "249120",
+                        "endLines": "3764",
+                        "endColumns": "12",
+                        "endOffsets": "249831"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\5fcf58f467c61301f7dd22175ddca6ba\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -204,6 +187,23 @@
                         "endLines": "50,4849,6235,6324",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "2554,320743,407672,412883"
+                    }
+                },
+                {
+                    "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "41",
+                        "endOffsets": "54"
+                    },
+                    "to": {
+                        "startLines": "1042",
+                        "startColumns": "4",
+                        "startOffsets": "61046",
+                        "endColumns": "41",
+                        "endOffsets": "61083"
                     }
                 },
                 {

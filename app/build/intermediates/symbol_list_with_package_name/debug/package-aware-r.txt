@@ -1784,11 +1784,11 @@ id blocking
 id bottom
 id bounce
 id btn_Profile
-id btn_dangky
 id btn_dangkyxem
 id btn_login
 id btn_logout
 id btn_nhatrongkiet
+id btn_registration
 id btn_report
 id btn_sellhouse
 id btn_update
@@ -1855,7 +1855,6 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
-id editTextTextEmailAddress
 id edit_query
 id edt_address
 id edt_dateofbirth
@@ -1870,6 +1869,7 @@ id edt_phone
 id edt_quan
 id edt_thanhpho
 id edt_tien
+id edt_username
 id elastic
 id end
 id endToStart
@@ -2129,10 +2129,12 @@ id textView13
 id textView14
 id textView15
 id textView16
+id textView17
 id textView18
 id textView19
 id textView2
 id textView20
+id textView21
 id textView22
 id textView24
 id textView25
