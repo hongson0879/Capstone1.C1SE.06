@@ -24,7 +24,7 @@
             app:srcCompat="@drawable/menu" />
 
         <ImageButton
-            android:id="@+id/img_btn_map"
+            android:id="@+id/img_btn_map1"
             android:layout_width="wrap_content"
             android:background="@null"
             android:layout_marginTop="10dp"

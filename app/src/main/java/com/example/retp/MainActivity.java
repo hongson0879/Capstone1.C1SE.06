@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     Button btn_login;
-    ImageButton img_btn_menu;
+    ImageButton img_btn_menu,img_btn_map;
     TextView txt_thongtin,txt_thongtin1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         btn_login=findViewById(R.id.btn_login);
         img_btn_menu=findViewById(R.id.img_btn_menu);
+        img_btn_map=findViewById(R.id.img_btn_map1);
         txt_thongtin=findViewById(R.id.txt_thongtin);
         txt_thongtin1=findViewById(R.id.txt_thongtin1);
         btn_login.setOnClickListener(new View.OnClickListener() {
@@ -47,6 +48,13 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent1 =   new Intent(MainActivity.this,activity_xemnha.class);
                 startActivity(intent1);
+            }
+        });
+        img_btn_map.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent myintent= new Intent(MainActivity.this,MapsActivity.class);
+                startActivity(myintent);
             }
         });
     }

@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="150dp"
         android:gravity="center"
-        android:text="login"
+        android:text="LOGIN"
         android:textColor="#FFFFFF"
         android:textSize="30sp"
         android:textStyle="bold" />
@@ -38,7 +38,7 @@
                 android:layout_weight="1"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:text="User name"
+                android:text="Username"
                 android:textSize="18sp" />
         </TableRow>
 
@@ -73,10 +73,10 @@
         android:id="@+id/txt_btn_forgot"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="forgot your account?"
-        android:textColor="#FFFFFF"
-        android:gravity="center"
         android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Forgot password?"
+        android:textColor="#FFFFFF"
         android:textSize="18sp" />
 
     <TextView

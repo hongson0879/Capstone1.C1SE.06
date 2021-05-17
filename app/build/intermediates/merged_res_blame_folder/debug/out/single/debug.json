@@ -92,6 +92,10 @@
         "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
         "merged": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },

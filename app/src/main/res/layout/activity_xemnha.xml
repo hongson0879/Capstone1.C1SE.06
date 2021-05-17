@@ -33,13 +33,13 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:id="@+id/txt_loainha"
+                android:id="@+id/txt_title1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:gravity="center"
-                android:text="Loại Nhà"
-                android:textSize="20sp" />
+                android:text="Title"
+                android:textSize="18sp" />
         </TableRow>
 
         <TableRow
@@ -74,26 +74,40 @@
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent" >
+            android:layout_height="match_parent">
 
             <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:text="Địa chỉ:"
-                android:textSize="18sp" />
-
-            <TextView
-                android:id="@+id/txt_diachi"
+                android:id="@+id/txt_typehome"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="TextView"
+                android:gravity="center"
+                android:text="Loại Nhà"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="5dp"
+                android:text="Address:"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/txt_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:text="TextView"
                 android:textSize="18sp" />
 
             <ImageButton
-                android:id="@+id/img_btn_map"
+                android:id="@+id/img_btn_map1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
@@ -103,40 +117,40 @@
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent" >
+            android:layout_height="match_parent">
 
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Diện tích:"
                 android:layout_margin="5dp"
+                android:text="Acreage:"
                 android:textSize="18sp" />
 
             <TextView
-                android:id="@+id/txt_dientich"
+                android:id="@+id/txt_acreage"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:layout_margin="5dp"
+                android:layout_weight="1"
                 android:text="TextView"
                 android:textSize="18sp" />
         </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent" >
+            android:layout_height="match_parent">
 
             <TextView
                 android:id="@+id/textView24"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Người Bán:"
                 android:layout_margin="5dp"
+                android:text="Seller:"
                 android:textSize="18sp" />
 
             <TextView
-                android:id="@+id/textView25"
+                android:id="@+id/txt_seller"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
@@ -149,26 +163,25 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
-                android:textSize="18sp"
                 android:text="Report"
                 android:textColor="#090909"
+                android:textSize="18sp"
                 app:backgroundTint="#F4EEEE" />
         </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent" >
+            android:layout_height="match_parent">
 
             <TextView
-                android:id="@+id/textView26"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Số nhà đã bán:"
                 android:layout_margin="5dp"
+                android:text="Status:"
                 android:textSize="18sp" />
 
             <TextView
-                android:id="@+id/txt_sonhadaban"
+                android:id="@+id/textView26"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
@@ -180,14 +193,38 @@
 
     </TableLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Description:"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txt_decription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:text="TextView"
+            android:textSize="18sp" />
+    </LinearLayout>
+
     <Button
         android:id="@+id/btn_dangkyxem"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:text="Đăng Ký xem nhà"
         android:textColor="#0B0A0A"
         app:backgroundTint="#FDFDFD"
-        android:layout_margin="5dp"
         app:iconTint="#FFFFFF" />
+
 
 </LinearLayout>
