@@ -2487,6 +2487,7 @@ string google_maps_key
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string map_api_key
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection

@@ -1,4 +1,11 @@
 -- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:29:9-31:47
+	android:value
+		INJECTED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:30:13-58
 manifest
 ADDED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:2:1-51:12
 INJECTED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:2:1-51:12
@@ -100,12 +107,6 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\So
 		ADDED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:14:9-35
 	android:theme
 		ADDED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:9-42
-meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:29:9-31:55
-	android:value
-		ADDED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:31:13-52
-	android:name
-		ADDED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:30:13-58
 activity#com.example.retp.MapsActivity
 ADDED from C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:33:9-35:68
 	android:label

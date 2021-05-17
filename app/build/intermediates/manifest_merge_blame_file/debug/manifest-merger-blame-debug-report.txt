@@ -71,11 +71,10 @@
 49             You can define the keys for the debug and release targets in src/debug/ and src/release/.
 50        -->
 51        <meta-data
-51-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:29:9-31:55
 52            android:name="com.google.android.geo.API_KEY"
 52-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:30:13-58
-53            android:value="@string/google_maps_key" />
-53-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:31:13-52
+53            android:value="AIzaSyAZXOXLJGbH3GRH4SITgkFhTitUCpxaPDE" />
+53-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:31:13-44
 54
 55        <activity
 55-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:33:9-35:68
