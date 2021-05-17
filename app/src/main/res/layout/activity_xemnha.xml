@@ -82,7 +82,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="Loại Nhà"
+                android:text="Type"
                 android:textSize="20sp" />
         </TableRow>
 
@@ -103,7 +103,6 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:text="TextView"
                 android:textSize="18sp" />
 
             <ImageButton
@@ -133,7 +132,6 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:text="TextView"
                 android:textSize="18sp" />
         </TableRow>
 
@@ -155,7 +153,6 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:text="TextView"
                 android:textSize="18sp" />
 
             <Button
@@ -186,7 +183,6 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:text="TextView"
                 android:textSize="18sp" />
         </TableRow>
 
@@ -221,7 +217,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
-        android:text="Đăng Ký xem nhà"
+        android:text="Contact seller"
         android:textColor="#0B0A0A"
         app:backgroundTint="#FDFDFD"
         app:iconTint="#FFFFFF" />
