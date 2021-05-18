@@ -113,45 +113,12 @@
     </TableLayout>
 
     <TextView
-        android:id="@+id/textView10"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="5dp"
-        android:layout_weight="1"
-        android:text="Nhà Trong kiệt hay mặt tiền"
-        android:textSize="20sp" />
-
-    <RadioGroup
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight="1"
-        android:orientation="horizontal">
-
-        <RadioButton
-            android:id="@+id/rad_townhouse"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="5dp"
-            android:layout_weight="1"
-            android:checked="true"
-            android:text="Town House" />
-
-        <RadioButton
-            android:id="@+id/btn_houseinalley"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="5dp"
-            android:layout_weight="1"
-            android:text="House in alley" />
-    </RadioGroup>
-
-    <TextView
         android:id="@+id/textView11"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_weight="1"
-        android:text="Loại Nhà"
+        android:text="house type"
         android:textSize="18sp" />
 
     <RadioGroup
@@ -173,7 +140,7 @@
             android:id="@+id/rad_groundfloor"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
+            android:layout_marginBottom="8dp"
             android:layout_weight="1"
             android:text="Ground Floor" />
 
@@ -184,6 +151,23 @@
             android:layout_margin="5dp"
             android:layout_weight="1"
             android:text="Building" />
+
+        <RadioButton
+            android:id="@+id/rad_townhouse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:checked="false"
+            android:text="Town House" />
+
+        <RadioButton
+            android:id="@+id/btn_houseinalley"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:text="House in alley" />
 
     </RadioGroup>
 

@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml
+8-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml
+9-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml
 10
 11    <!--
 12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -16,51 +16,51 @@
 14         location permissions for the "MyLocation" functionality.
 15    -->
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:10:5-79
-16-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:10:22-76
+16-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:10:5-79
+16-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:10:22-76
 17    <uses-permission android:name="android.permission.INTERNET" />
-17-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:11:5-67
-17-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:11:22-64
+17-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:11:5-67
+17-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:11:22-64
 18
 19    <!-- Include required permissions for Google Maps API to run. -->
 20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-20-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:5-79
-20-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:22-76
+20-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:5-79
+20-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:22-76
 21
 22    <uses-feature
-22-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
+22-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
 23        android:glEsVersion="0x00020000"
-23-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
+23-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
 24        android:required="true" />
-24-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
+24-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
 25
 26    <queries>
-26-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
+26-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
 27
 28        <!-- Needs to be explicitly declared on Android R+ -->
 29        <package android:name="com.google.android.apps.maps" />
-29-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
-29-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+29-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+29-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
 30    </queries>
 31
 32    <application
-32-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:13:5-49:19
+32-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:13:5-49:19
 33        android:allowBackup="true"
-33-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:14:9-35
+33-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:14:9-35
 34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-34-->[androidx.core:core:1.3.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
+34-->[androidx.core:core:1.3.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
 35        android:debuggable="true"
 36        android:icon="@mipmap/ic_launcher"
-36-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:15:9-43
+36-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:15:9-43
 37        android:label="@string/app_name"
-37-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:16:9-41
+37-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:16:9-41
 38        android:roundIcon="@mipmap/ic_launcher_round"
-38-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:17:9-54
+38-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:17:9-54
 39        android:supportsRtl="true"
-39-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:9-35
+39-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:9-35
 40        android:testOnly="true"
 41        android:theme="@style/Theme.Retp" >
-41-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:9-42
+41-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:9-42
 42
 43        <!--
 44             The API key for Google Maps-based APIs is defined as a string resource.
@@ -72,71 +72,71 @@
 50        -->
 51        <meta-data
 52            android:name="com.google.android.geo.API_KEY"
-52-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:30:13-58
+52-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:30:13-58
 53            android:value="AIzaSyAZXOXLJGbH3GRH4SITgkFhTitUCpxaPDE" />
-53-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:31:13-44
+53-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:31:13-44
 54
 55        <activity
-55-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:33:9-35:68
+55-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:33:9-35:68
 56            android:name="com.example.retp.MapsActivity"
-56-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:34:13-41
+56-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:34:13-41
 57            android:label="@string/title_activity_maps" />
-57-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:35:13-56
+57-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:35:13-56
 58        <activity android:name="com.example.retp.activity_xemnha" />
-58-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:36:9-53
-58-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:36:19-50
+58-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:36:9-53
+58-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:36:19-50
 59        <activity android:name="com.example.retp.activity_menu" />
-59-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:37:9-51
-59-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:37:19-48
+59-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:37:9-51
+59-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:37:19-48
 60        <activity android:name="com.example.retp.activity_profile" />
-60-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:38:9-54
-60-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:38:19-51
+60-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:38:9-54
+60-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:38:19-51
 61        <activity android:name="com.example.retp.activity_sellhouse" />
-61-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:39:9-56
-61-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:39:19-53
+61-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:39:9-56
+61-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:39:19-53
 62        <activity android:name="com.example.retp.activity_login" />
-62-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:40:9-52
-62-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:40:19-49
+62-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:40:9-52
+62-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:40:19-49
 63        <activity android:name="com.example.retp.activity_registration" />
-63-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:41:9-59
-63-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:41:19-56
+63-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:41:9-59
+63-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:41:19-56
 64        <activity android:name="com.example.retp.MainActivity" >
-64-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:42:9-48:20
-64-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:42:19-47
+64-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:42:9-48:20
+64-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:42:19-47
 65            <intent-filter>
-65-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:43:13-47:29
+65-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:43:13-47:29
 66                <action android:name="android.intent.action.MAIN" />
-66-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:44:17-69
-66-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:44:25-66
+66-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:44:17-69
+66-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:44:25-66
 67
 68                <category android:name="android.intent.category.LAUNCHER" />
-68-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:46:17-77
-68-->C:\Users\Son\OneDrive\Desktop\Cap1\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:46:27-74
+68-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:46:17-77
+68-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:46:27-74
 69            </intent-filter>
 70        </activity>
 71        <!-- Needs to be explicitly declared on P+ -->
 72        <uses-library
-72-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
+72-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
 73            android:name="org.apache.http.legacy"
-73-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
+73-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
 74            android:required="false" />
-74-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
+74-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
 75
 76        <activity
-76-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\bfa69299c70613d916dc093c901431a2\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+76-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\bfa69299c70613d916dc093c901431a2\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
 77            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-77-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\bfa69299c70613d916dc093c901431a2\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+77-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\bfa69299c70613d916dc093c901431a2\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
 78            android:exported="false"
-78-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\bfa69299c70613d916dc093c901431a2\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+78-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\bfa69299c70613d916dc093c901431a2\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
 79            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-79-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\bfa69299c70613d916dc093c901431a2\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+79-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\bfa69299c70613d916dc093c901431a2\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
 80
 81        <meta-data
-81-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\b5a3f39bf4ddacacabf43b64773b9e83\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+81-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b5a3f39bf4ddacacabf43b64773b9e83\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
 82            android:name="com.google.android.gms.version"
-82-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\b5a3f39bf4ddacacabf43b64773b9e83\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+82-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b5a3f39bf4ddacacabf43b64773b9e83\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
 83            android:value="@integer/google_play_services_version" />
-83-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Son\.gradle\caches\transforms-2\files-2.1\b5a3f39bf4ddacacabf43b64773b9e83\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+83-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b5a3f39bf4ddacacabf43b64773b9e83\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
 84    </application>
 85
 86</manifest>
