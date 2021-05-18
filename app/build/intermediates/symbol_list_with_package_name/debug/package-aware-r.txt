@@ -2194,6 +2194,7 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView10
 id textView11
 id textView12
 id textView13
@@ -2251,6 +2252,7 @@ id txt_decription
 id txt_dientich1
 id txt_khoangcach
 id txt_khoangcach1
+id txt_price
 id txt_seller
 id txt_thongtin
 id txt_thongtin1
