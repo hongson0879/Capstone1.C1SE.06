@@ -57,6 +57,18 @@
             app:backgroundTint="#F8F5F5" />
 
         <Button
+            android:id="@+id/btn_post"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="My Posts"
+            android:textColor="#0C0C0C"
+            android:gravity="left"
+            android:textSize="18sp"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            app:backgroundTint="#F8F5F5"/>
+
+        <Button
             android:id="@+id/btn_logout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

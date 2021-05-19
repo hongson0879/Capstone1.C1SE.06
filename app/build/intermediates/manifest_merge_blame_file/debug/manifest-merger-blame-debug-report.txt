@@ -9,59 +9,63 @@
 8-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
 9-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml
-10
-11    <!--
-12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
-13         Google Maps Android API v2, but you must specify either coarse or fine
-14         location permissions for the "MyLocation" functionality.
-15    -->
-16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:10:5-79
-16-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:10:22-76
-17    <uses-permission android:name="android.permission.INTERNET" />
-17-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:11:5-67
-17-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:11:22-64
-18
-19    <!-- Include required permissions for Google Maps API to run. -->
-20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-20-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:5-79
-20-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:22-76
-21
-22    <uses-feature
-22-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
-23        android:glEsVersion="0x00020000"
-23-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
-24        android:required="true" />
-24-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
-25
-26    <queries>
-26-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
-27
-28        <!-- Needs to be explicitly declared on Android R+ -->
-29        <package android:name="com.google.android.apps.maps" />
-29-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
-29-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
-30    </queries>
-31
-32    <application
-32-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:13:5-49:19
-33        android:allowBackup="true"
-33-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:14:9-35
-34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-34-->[androidx.core:core:1.3.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
-35        android:debuggable="true"
-36        android:icon="@mipmap/ic_launcher"
-36-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:15:9-43
-37        android:label="@string/app_name"
-37-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:16:9-41
-38        android:roundIcon="@mipmap/ic_launcher_round"
-38-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:17:9-54
-39        android:supportsRtl="true"
-39-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:9-35
-40        android:testOnly="true"
-41        android:theme="@style/Theme.Retp" >
-41-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:9-42
-42
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the "MyLocation" functionality.
+14    -->
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:9:5-79
+15-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:10:5-67
+16-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:10:22-64
+17
+18    <!-- Include required permissions for Google Maps API to run. -->
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:5-79
+19-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:22-76
+20
+21    <uses-feature
+21-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
+22        android:glEsVersion="0x00020000"
+22-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
+23        android:required="true" />
+23-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
+24
+25    <queries>
+25-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
+26
+27        <!-- Needs to be explicitly declared on Android R+ -->
+28        <package android:name="com.google.android.apps.maps" />
+28-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+28-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6c45f831c5ec7592a2018d7c40a2da2e\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+29    </queries>
+30
+31    <application
+31-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:12:5-49:19
+32        android:allowBackup="true"
+32-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:13:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.3.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
+34        android:debuggable="true"
+35        android:icon="@mipmap/ic_launcher"
+35-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:14:9-43
+36        android:label="@string/app_name"
+36-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:15:9-41
+37        android:roundIcon="@mipmap/ic_launcher_round"
+37-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:16:9-54
+38        android:supportsRtl="true"
+38-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:17:9-35
+39        android:testOnly="true"
+40        android:theme="@style/Theme.Retp" >
+40-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:9-42
+41        <activity android:name="com.example.retp.update_activity" />
+41-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:9-62
+41-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:19-50
+42        <activity android:name="com.example.retp.activity_mypost" />
+42-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:9-53
+42-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:19-50
 43        <!--
 44             The API key for Google Maps-based APIs is defined as a string resource.
 45             (See the file "res/values/google_maps_api.xml").
@@ -77,7 +81,7 @@
 53-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:31:13-44
 54
 55        <activity
-55-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:33:9-35:68
+55-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:33:9-35:59
 56            android:name="com.example.retp.MapsActivity"
 56-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:34:13-41
 57            android:label="@string/title_activity_maps" />

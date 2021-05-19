@@ -3,8 +3,12 @@ com/example/retp/activity_xemnha.java
  com.example.retp.activity_xemnha$1
 com/example/retp/User.java
  com.example.retp.User
+com/example/retp/repost.java
+ com.example.retp.repost
 com/example/retp/BuildConfig.java
  com.example.retp.BuildConfig
+com/example/retp/activity_registration.java
+ com.example.retp.activity_registration
 com/example/retp/activity_sellhouse.java
  com.example.retp.activity_sellhouse
  com.example.retp.activity_sellhouse$1
@@ -20,6 +24,7 @@ com/example/retp/activity_menu.java
  com.example.retp.activity_menu$1
  com.example.retp.activity_menu$2
  com.example.retp.activity_menu$3
+ com.example.retp.activity_menu$4
 com/example/retp/MainActivity.java
  com.example.retp.MainActivity
  com.example.retp.MainActivity$1
@@ -32,7 +37,10 @@ com/example/retp/MapsActivity.java
 com/example/retp/activity_profile.java
  com.example.retp.activity_profile
  com.example.retp.activity_profile$1
-com/example/retp/activity_registration.java
- com.example.retp.activity_registration
-com/example/retp/repost.java
- com.example.retp.repost
+com/example/retp/update_activity.java
+ com.example.retp.update_activity
+ com.example.retp.update_activity$1
+com/example/retp/activity_mypost.java
+ com.example.retp.activity_mypost
+ com.example.retp.activity_mypost$1
+ com.example.retp.activity_mypost$2

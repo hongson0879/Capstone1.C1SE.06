@@ -1,3 +1,4 @@
+
 package com.example.retp;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,7 +11,7 @@ import android.widget.ImageButton;
 
 public class activity_menu extends AppCompatActivity {
     ImageButton img_btn_quaylui;
-    Button btn_profile,btn_sellhouse,btn_logout;
+    Button btn_profile,btn_sellhouse,btn_logout,btn_myposts;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,6 +20,7 @@ public class activity_menu extends AppCompatActivity {
         btn_profile=findViewById(R.id.btn_Profile);
         btn_sellhouse=findViewById(R.id.btn_sellhouse);
         btn_logout=findViewById(R.id.btn_logout);
+        btn_myposts=findViewById(R.id.btn_post);
         img_btn_quaylui.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -40,5 +42,13 @@ public class activity_menu extends AppCompatActivity {
                 startActivity(intent1);
             }
         });
+        btn_myposts.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent1 =new Intent(activity_menu.this,activity_mypost.class);
+                startActivity(intent1);
+            }
+        });
+
     }
 }
