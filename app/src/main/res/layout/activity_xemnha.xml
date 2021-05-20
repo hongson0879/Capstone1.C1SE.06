@@ -156,14 +156,15 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/btn_report"
+                android:id="@+id/btn_chat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
-                android:text="Report"
+                android:text="Chat"
                 android:textColor="#090909"
                 android:textSize="18sp"
                 app:backgroundTint="#F4EEEE" />
+
         </TableRow>
 
         <TableRow
@@ -234,15 +235,38 @@
             android:textSize="18sp" />
     </LinearLayout>
 
-    <Button
-        android:id="@+id/btn_dangkyxem"
+    <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="5dp"
-        android:text="Contact seller"
-        android:textColor="#0B0A0A"
-        app:backgroundTint="#FDFDFD"
-        app:iconTint="#FFFFFF" />
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/btn_dangkyxem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="4"
+                android:text="Contact seller"
+                android:textColor="#0B0A0A"
+                app:backgroundTint="#FDFDFD"
+                app:iconTint="#FFFFFF" />
+
+            <Button
+                android:id="@+id/btn_report"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:text="Report"
+                android:textColor="#0B0A0A"
+                app:backgroundTint="#FDFDFD"
+                app:iconTint="#FFFFFF" />
+        </TableRow>
+
+    </TableLayout>
 
 
 </LinearLayout>

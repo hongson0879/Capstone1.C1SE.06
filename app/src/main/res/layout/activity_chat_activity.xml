@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".chat_activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4baf4f"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/img_btn_quaylai3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="390dp"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1"
+            android:background="@null"
+            app:srcCompat="@drawable/arrow" />
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/List_sms"
+        android:layout_width="match_parent"
+        android:layout_height="700dp">
+
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/edt_input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="input"
+            android:inputType="textPersonName"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btn_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Send"
+            android:textColor="#F8F6F6"
+            app:backgroundTint="#4baf4f" />
+
+    </LinearLayout>
+
+</LinearLayout>

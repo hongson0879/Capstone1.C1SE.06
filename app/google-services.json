@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957320432260",
+    "project_id": "retp-34442",
+    "storage_bucket": "retp-34442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957320432260:android:45fec087c0ba1ecb0810d1",
+        "android_client_info": {
+          "package_name": "com.example.retp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957320432260-g42fr9ekk6os40ddaaqekp5cic7sprrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vhMUvqYwdpECxRgf1FJrYSeiOktfPAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957320432260-g42fr9ekk6os40ddaaqekp5cic7sprrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

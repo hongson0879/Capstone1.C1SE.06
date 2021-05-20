@@ -1762,6 +1762,7 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
+id List_sms
 id META
 id NO_DEBUG
 id Rad_male
@@ -1848,6 +1849,7 @@ id blocking
 id bottom
 id bounce
 id btn_Profile
+id btn_chat
 id btn_dangkyxem
 id btn_houseinalley
 id btn_login
@@ -1855,7 +1857,9 @@ id btn_logout
 id btn_post
 id btn_registration
 id btn_report
+id btn_report1
 id btn_sellhouse
+id btn_send
 id btn_update
 id btn_updatepost
 id buttonPanel
@@ -1921,6 +1925,7 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
+id editTextTextPersonName
 id edit_query
 id edt_address
 id edt_city
@@ -1929,6 +1934,7 @@ id edt_description
 id edt_district
 id edt_email
 id edt_firstname
+id edt_input
 id edt_lastname
 id edt_name
 id edt_password
@@ -1987,12 +1993,17 @@ id imageView8
 id imageView9
 id img_avatar
 id img_back
+id img_back3
 id img_btn_camera
+id img_btn_imgreport
+id img_btn_imgreport1
+id img_btn_imgreport2
 id img_btn_map1
 id img_btn_menu
 id img_btn_quaylai
 id img_btn_quaylai2
 id img_btn_quaylai3
+id img_btn_quaylai4
 id img_btn_quaylui
 id img_btn_sort
 id img_dientich
@@ -2000,6 +2011,7 @@ id img_home
 id img_home1
 id img_home2
 id img_next
+id img_next3
 id img_page1
 id img_quaylui
 id img_sangphai
@@ -2221,8 +2233,11 @@ id textView24
 id textView25
 id textView26
 id textView27
+id textView28
+id textView29
 id textView3
 id textView30
+id textView34
 id textView4
 id textView5
 id textView6
@@ -2260,6 +2275,7 @@ id txt_btn_forgot
 id txt_btn_registration
 id txt_decription
 id txt_dientich1
+id txt_informationreport
 id txt_khoangcach
 id txt_khoangcach1
 id txt_price
@@ -2343,6 +2359,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_chat_activity
 layout activity_login
 layout activity_main
 layout activity_maps
@@ -2350,6 +2367,7 @@ layout activity_menu
 layout activity_mypost
 layout activity_profile
 layout activity_registration
+layout activity_report_activity
 layout activity_sellhouse
 layout activity_update_activity
 layout activity_xemnha
@@ -2492,11 +2510,17 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string default_web_client_id
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
 string google_maps_key
+string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2556,6 +2580,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
 string title_activity_maps

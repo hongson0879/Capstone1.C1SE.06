@@ -76,6 +76,10 @@
         "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_update_activity.xml"
     },
     {
+        "merged": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report_activity.xml.flat",
+        "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_report_activity.xml"
+    },
+    {
         "merged": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diadiem.png.flat",
         "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\diadiem.png"
     },
@@ -162,5 +166,9 @@
     {
         "merged": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_activity.xml.flat",
+        "source": "E:\\captone1_fornend\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_chat_activity.xml"
     }
 ]
