@@ -47,7 +47,7 @@
             android:layout_height="match_parent">
 
             <ImageButton
-                android:id="@+id/img_sangtrai"
+                android:id="@+id/img_sangtrai1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -56,14 +56,14 @@
                 app:srcCompat="@drawable/sangtrai" />
 
             <ImageView
-                android:id="@+id/img_home"
+                android:id="@+id/img_home3"
                 android:layout_width="250dp"
                 android:layout_height="250dp"
                 android:layout_weight="2"
                 app:srcCompat="@drawable/nha" />
 
             <ImageButton
-                android:id="@+id/img_sangphai"
+                android:id="@+id/img_sangphai1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -98,7 +98,7 @@
                 android:textSize="18sp" />
 
             <TextView
-                android:id="@+id/txt_address"
+                android:id="@+id/txt_address1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
@@ -148,7 +148,7 @@
                 android:textSize="18sp" />
 
             <TextView
-                android:id="@+id/txt_seller"
+                android:id="@+id/txt_seller1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
@@ -179,7 +179,7 @@
                 android:textSize="18sp" />
 
             <TextView
-                android:id="@+id/textView26"
+                android:id="@+id/txt_status"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"

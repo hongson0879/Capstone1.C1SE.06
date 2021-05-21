@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/edt_district"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
@@ -75,7 +76,7 @@
             android:orientation="horizontal">
 
             <ImageButton
-                android:id="@+id/imageButton3"
+                android:id="@+id/img_back2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -92,7 +93,7 @@
                 app:srcCompat="@drawable/camera" />
 
             <ImageButton
-                android:id="@+id/imageButton6"
+                android:id="@+id/img_next2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -105,7 +106,7 @@
     </TableLayout>
 
     <TextView
-        android:id="@+id/textView11"
+        android:id="@+id/txt_housetype"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
@@ -120,7 +121,7 @@
         android:orientation="horizontal">
 
         <RadioButton
-            android:id="@+id/rad_villa"
+            android:id="@+id/rad_villa1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
@@ -129,7 +130,7 @@
             android:text="Villa" />
 
         <RadioButton
-            android:id="@+id/rad_groundfloor"
+            android:id="@+id/rad_groundfloor1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
@@ -137,7 +138,7 @@
             android:text="Ground Floor" />
 
         <RadioButton
-            android:id="@+id/rad_building"
+            android:id="@+id/rad_building1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
@@ -145,7 +146,7 @@
             android:text="Building" />
 
         <RadioButton
-            android:id="@+id/rad_townhouse"
+            android:id="@+id/rad_townhouse1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
@@ -154,7 +155,7 @@
             android:text="Town House" />
 
         <RadioButton
-            android:id="@+id/btn_houseinalley"
+            android:id="@+id/rad_houseinalley1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
@@ -164,44 +165,44 @@
     </RadioGroup>
 
     <EditText
-        android:id="@+id/edt_city"
+        android:id="@+id/edt_city1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="City" />
+        android:hint="City"
+        android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/edt_district"
+        android:id="@+id/edt_country"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="County Or District" />
+        android:hint="County Or District"
+        android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/edt_road"
+        android:id="@+id/edt_road1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Road" />
+        android:hint="Road"
+        android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/edt_price"
+        android:id="@+id/edt_price1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="number"
-        android:text="Price" />
+        android:hint="Price"
+        android:inputType="number" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -214,20 +215,20 @@
             android:id="@+id/textView27"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Description:"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:text="Description:"
             android:textSize="18sp" />
 
         <EditText
-            android:id="@+id/edt_description"
+            android:id="@+id/edt_description1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textSize="18sp"
             android:ems="10"
-            android:inputType="textPersonName" />
+            android:inputType="textPersonName"
+            android:textSize="18sp" />
     </LinearLayout>
 
     <Button

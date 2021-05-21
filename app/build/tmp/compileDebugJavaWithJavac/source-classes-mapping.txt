@@ -3,6 +3,7 @@ com/example/retp/activity_xemnha.java
  com.example.retp.activity_xemnha$1
  com.example.retp.activity_xemnha$2
  com.example.retp.activity_xemnha$3
+ com.example.retp.activity_xemnha$4
 com/example/retp/User.java
  com.example.retp.User
 com/example/retp/update_activity.java
@@ -10,10 +11,6 @@ com/example/retp/update_activity.java
  com.example.retp.update_activity$1
 com/example/retp/BuildConfig.java
  com.example.retp.BuildConfig
-com/example/retp/activity_mypost.java
- com.example.retp.activity_mypost
- com.example.retp.activity_mypost$1
- com.example.retp.activity_mypost$2
 com/example/retp/activity_sellhouse.java
  com.example.retp.activity_sellhouse
  com.example.retp.activity_sellhouse$1
@@ -52,3 +49,7 @@ com/example/retp/activity_registration.java
  com.example.retp.activity_registration
 com/example/retp/repost.java
  com.example.retp.repost
+com/example/retp/postactivity.java
+ com.example.retp.postactivity
+ com.example.retp.postactivity$1
+ com.example.retp.postactivity$2

@@ -70,16 +70,16 @@
 43        android:testOnly="true"
 44        android:theme="@style/Theme.Retp" >
 44-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:9-42
-45        <activity android:name="com.example.retp.report_activity" />
-45-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:9-62
-45-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:19-50
-46        <activity android:name="com.example.retp.chat_activity" />
-46-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:9-51
-46-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:19-48
-47        <activity android:name="com.example.retp.update_activity" />
-47-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:21:9-53
-47-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:21:19-50
-48        <activity android:name="com.example.retp.activity_mypost" />
+45        <activity android:name="com.example.retp.postactivity" />
+45-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:9-59
+45-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:19-47
+46        <activity android:name="com.example.retp.report_activity" />
+46-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:9-53
+46-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:19-50
+47        <activity android:name="com.example.retp.chat_activity" />
+47-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:21:9-51
+47-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:21:19-48
+48        <activity android:name="com.example.retp.update_activity" />
 48-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:22:9-53
 48-->E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:22:19-50
 49        <!--

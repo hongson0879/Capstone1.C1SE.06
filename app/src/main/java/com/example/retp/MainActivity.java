@@ -7,12 +7,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     Button btn_login;
-    ImageButton img_btn_menu,img_btn_map;
-    TextView txt_thongtin,txt_thongtin1;
+    ImageButton img_btn_menu,img_btn_map,img_btn_sort;
+    ImageView img_home,img_home1,img_sangtrai,img_page1,img_sangphai;
+    TextView txt_thongtin,txt_thongtin1,txt_khoangcach,txt_dientich,txt_khoangcach1,txt_dientich1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -22,6 +24,12 @@ public class MainActivity extends AppCompatActivity {
         img_btn_map=findViewById(R.id.img_btn_map1);
         txt_thongtin=findViewById(R.id.txt_thongtin);
         txt_thongtin1=findViewById(R.id.txt_thongtin1);
+        img_btn_sort=findViewById(R.id.img_btn_sort);
+        img_home=findViewById(R.id.img_home3);
+        img_home1=findViewById(R.id.img_home1);
+        img_sangtrai=findViewById(R.id.img_sangtrai1);
+        img_page1=findViewById(R.id.img_page1_1);
+        img_sangphai=findViewById(R.id.img_sangphai1);
         btn_login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

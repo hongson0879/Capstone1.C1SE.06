@@ -45,7 +45,7 @@ public class activity_menu extends AppCompatActivity {
         btn_myposts.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent1 =new Intent(activity_menu.this,activity_mypost.class);
+                Intent intent1 =new Intent(activity_menu.this,postactivity.class);
                 startActivity(intent1);
             }
         });

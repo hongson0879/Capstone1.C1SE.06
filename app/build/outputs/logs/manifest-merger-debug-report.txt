@@ -155,19 +155,19 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ad
 		ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
 		ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:18:9-42
+activity#com.example.retp.postactivity
+ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:19-47
 activity#com.example.retp.report_activity
-ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:9-62
+ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:9-53
 	android:name
-		ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:19:19-50
+		ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:19-50
 activity#com.example.retp.chat_activity
-ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:9-51
+ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:21:9-51
 	android:name
-		ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:20:19-48
+		ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:21:19-48
 activity#com.example.retp.update_activity
-ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:21:9-53
-	android:name
-		ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:21:19-50
-activity#com.example.retp.activity_mypost
 ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:22:9-53
 	android:name
 		ADDED from E:\captone1_fornend\Capstone1.C1SE.06\app\src\main\AndroidManifest.xml:22:19-50

@@ -62,7 +62,7 @@
         android:layout_height="wrap_content">
 
         <ImageView
-            android:id="@+id/img_home"
+            android:id="@+id/img_home3"
             android:layout_width="400dp"
             android:layout_height="300dp"
             app:layout_constraintBottom_toTopOf="@+id/txt_thongtin"
@@ -80,7 +80,7 @@
             android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/img_home" />
+            app:layout_constraintTop_toBottomOf="@+id/img_home3" />
 
         <ImageView
             android:id="@+id/imageView4"
@@ -106,19 +106,18 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <ImageView
-            android:id="@+id/imageView5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="320dp"
             android:layout_marginEnd="2dp"
             android:layout_marginRight="2dp"
             android:background="@null"
-            app:layout_constraintEnd_toStartOf="@+id/img_dientich"
+            app:layout_constraintEnd_toStartOf="@+id/txt_dientich"
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/dientich" />
 
         <TextView
-            android:id="@+id/img_dientich"
+            android:id="@+id/txt_dientich"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="320dp"
@@ -208,7 +207,7 @@
         android:layout_height="match_parent">
 
         <ImageButton
-            android:id="@+id/img_sangphai"
+            android:id="@+id/img_sangphai1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="180dp"
@@ -219,7 +218,7 @@
             app:srcCompat="@drawable/sangphai" />
 
         <ImageButton
-            android:id="@+id/img_sangtrai"
+            android:id="@+id/img_sangtrai1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="180dp"
@@ -230,7 +229,7 @@
             app:srcCompat="@drawable/sangtrai" />
 
         <ImageView
-            android:id="@+id/imageView10"
+            android:id="@+id/img_page1_1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
