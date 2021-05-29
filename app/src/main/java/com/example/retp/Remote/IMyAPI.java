@@ -8,9 +8,9 @@ import retrofit2.http.Body;
 import retrofit2.http.POST;
 
 public interface IMyAPI {
-    @POST("/swagger/index.html")
+    @POST("api/User/register")
     Observable<String>  registerUser(@Body registerRequest register );
-    @POST("/swagger/index.html")
+    @POST("api/User/authenticate")
     Observable<String>  loginUser(@Body loginRequest login );
 
 }
