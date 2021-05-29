@@ -1,4 +1,4 @@
-#Fri May 21 15:26:39 ICT 2021
-base.0=E\:\\captone1_fornend\\Capstone1.C1SE.06\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sat May 29 13:12:19 ICT 2021
+base.0=D\:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

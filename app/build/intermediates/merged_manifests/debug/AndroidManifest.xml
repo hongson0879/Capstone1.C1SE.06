@@ -42,6 +42,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Retp" >
+        <activity android:name="com.example.retp.subchat_activity2" />
         <activity android:name="com.example.retp.postactivity" />
         <activity android:name="com.example.retp.report_activity" />
         <activity android:name="com.example.retp.chat_activity" />

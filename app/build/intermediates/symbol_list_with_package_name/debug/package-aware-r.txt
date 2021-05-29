@@ -1848,6 +1848,7 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btn_LOGIN
 id btn_Profile
 id btn_chat
 id btn_dangkyxem
@@ -2054,6 +2055,9 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id message
+id message_text
+id message_time
+id message_user
 id middle
 id mini
 id month_grid
@@ -2367,6 +2371,7 @@ layout activity_profile
 layout activity_registration
 layout activity_report_activity
 layout activity_sellhouse
+layout activity_subchat_activity2
 layout activity_update_activity
 layout activity_xemnha
 layout custom_dialog
