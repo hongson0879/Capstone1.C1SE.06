@@ -1,9 +1,5 @@
 package com.example.retp.Models;
 
-import android.app.Dialog;
-import android.view.View;
-import android.widget.Toast;
-
 public class ProductRequest {
     //public int re_id ;
     private String title ;

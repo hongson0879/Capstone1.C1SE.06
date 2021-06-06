@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\KHOA\\.gradle\\caches\\transforms-2\\files-2.1\\b8f6da53f8601c0b0ad135bf04e1fd79\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
@@ -23,20 +23,20 @@
                     }
                 },
                 {
-                    "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "7,2,3,4,5,6,8",
+                        "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "293,57,105,153,201,247,336",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "330,99,147,195,241,287,373"
+                        "startOffsets": "55,199,281,385,494,614,708",
+                        "endColumns": "143,81,103,108,119,93,70",
+                        "endOffsets": "194,276,380,489,609,703,774"
                     },
                     "to": {
-                        "startLines": "403,499,500,501,512,513,516",
+                        "startLines": "1078,1083,1084,1085,1086,1088,1148",
                         "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "19541,26205,26252,26299,27043,27088,27254",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "19578,26247,26294,26341,27083,27128,27291"
+                        "startOffsets": "65104,65716,65798,65902,66011,66269,76273",
+                        "endColumns": "143,81,103,108,119,93,70",
+                        "endOffsets": "65243,65793,65897,66006,66126,66358,76339"
                     }
                 },
                 {
@@ -76,22 +76,54 @@
                     }
                 },
                 {
-                    "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "827"
+                        "startLines": "1,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17,113,60",
+                        "endColumns": "41,79,51",
+                        "endOffsets": "54,188,107"
                     },
                     "to": {
-                        "startLines": "3789",
+                        "startLines": "1051,1092,1151",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "61785,66729,76468",
+                        "endColumns": "41,79,51",
+                        "endOffsets": "61822,66804,76515"
+                    }
+                },
+                {
+                    "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\debug\\res\\values\\google_maps_api.xml",
+                    "from": {
+                        "startLines": "22",
                         "startColumns": "4",
-                        "startOffsets": "253186",
-                        "endLines": "3801",
-                        "endColumns": "12",
-                        "endOffsets": "253897"
+                        "startOffsets": "863",
+                        "endColumns": "137",
+                        "endOffsets": "996"
+                    },
+                    "to": {
+                        "startLines": "1087",
+                        "startColumns": "4",
+                        "startOffsets": "66131",
+                        "endColumns": "137",
+                        "endOffsets": "66264"
+                    }
+                },
+                {
+                    "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "293,57,105,153,201,247,336",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "330,99,147,195,241,287,373"
+                    },
+                    "to": {
+                        "startLines": "403,499,500,501,512,513,516",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "19541,26205,26252,26299,27043,27088,27254",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "19578,26247,26294,26341,27083,27128,27291"
                     }
                 },
                 {
@@ -133,37 +165,22 @@
                     }
                 },
                 {
-                    "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
-                        "startLines": "1,3,2",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "17,113,60",
-                        "endColumns": "41,79,51",
-                        "endOffsets": "54,188,107"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "827"
                     },
                     "to": {
-                        "startLines": "1051,1092,1151",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "61785,66729,76468",
-                        "endColumns": "41,79,51",
-                        "endOffsets": "61822,66804,76515"
-                    }
-                },
-                {
-                    "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,708",
-                        "endColumns": "143,81,103,108,119,93,70",
-                        "endOffsets": "194,276,380,489,609,703,774"
-                    },
-                    "to": {
-                        "startLines": "1078,1083,1084,1085,1086,1088,1148",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "65104,65716,65798,65902,66011,66269,76273",
-                        "endColumns": "143,81,103,108,119,93,70",
-                        "endOffsets": "65243,65793,65897,66006,66126,66358,76339"
+                        "startLines": "3789",
+                        "startColumns": "4",
+                        "startOffsets": "253186",
+                        "endLines": "3801",
+                        "endColumns": "12",
+                        "endOffsets": "253897"
                     }
                 },
                 {
@@ -259,23 +276,6 @@
                         "endLines": "2,8,10,18,19,25,31,46,47,48,49,54,55,56,57,65,73,75,81,86,87,92,97,98,99,104,105,110,111,116,117,118,124,125,126,131,136,137,146,150,151,152,153,156,157,160,163,164,165,166,167,170,173,174,175,176,181,184,187,188,189,194,195,196,199,202,203,206,209,212,215,216,217,220,223,224,229,230,235,238,241,242,243,244,245,246,247,248,249,250,265,291,292,293,294,301,302,303,306,311,322,327,346,355,362,363,369,370,371,372,381,385,956,6259,6260,6261,6262,6362,6582,6590,6591,6592,6593,6594,6599,6600,6601,6602,7135,7136,7137,7143,7144,7150,7212,7224,7235,7502,7535,8080,8097,8098",
                         "endColumns": "56,11,60,11,51,47,50,51,60,61,45,11,51,49,50,11,11,44,58,11,56,11,11,53,56,11,57,11,55,11,56,50,11,51,54,11,11,49,55,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,55,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,50,48,47,57,11,46,59,11,11,45,46,51,11,11,54,11,45,54,44,11,11,40,4259,3645,143,4346,502,419,630,651,40,53,49,382,652,497,2917,345,231,139,35,129,133,35,35,231,126,105,483,35,302",
                         "endOffsets": "202,444,554,845,897,1229,1539,2324,2385,2447,2493,2687,2739,2789,2840,3149,3461,3561,3933,4130,4187,4382,4563,4617,4674,4866,4924,5120,5176,5370,5427,5478,5700,5752,5807,5997,6173,6223,6700,6860,6921,6981,7051,7184,7252,7381,7507,7569,7634,7702,7769,7892,8017,8084,8149,8214,8395,8516,8637,8703,8770,8980,9049,9115,9240,9366,9433,9559,9686,9811,9938,9994,10059,10185,10308,10373,10581,10648,10828,10948,11068,11133,11195,11257,11319,11378,11438,11499,11560,11619,12270,13947,13996,14044,14102,14390,14437,14497,14603,14783,15413,15653,16764,17094,17377,17432,17694,17740,17795,17840,18181,18318,56161,402993,406639,406783,411130,417452,430196,431284,431936,431977,432031,432081,432703,433356,433854,436772,461318,461550,461690,462195,462325,462752,466767,467799,468548,481599,483608,514637,515759,516062"
-                    }
-                },
-                {
-                    "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\debug\\res\\values\\google_maps_api.xml",
-                    "from": {
-                        "startLines": "22",
-                        "startColumns": "4",
-                        "startOffsets": "863",
-                        "endColumns": "137",
-                        "endOffsets": "996"
-                    },
-                    "to": {
-                        "startLines": "1087",
-                        "startColumns": "4",
-                        "startOffsets": "66131",
-                        "endColumns": "137",
-                        "endOffsets": "66264"
                     }
                 },
                 {

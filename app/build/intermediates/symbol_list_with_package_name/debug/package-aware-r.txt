@@ -1928,14 +1928,16 @@ id easeOut
 id edit_query
 id edt_address
 id edt_city1
-id edt_country
 id edt_dateofbirth
+id edt_description
 id edt_description1
 id edt_district
 id edt_email
 id edt_firstname
 id edt_input
 id edt_lastname
+id edt_latitude
+id edt_longitude
 id edt_name
 id edt_password
 id edt_password1
@@ -1943,7 +1945,7 @@ id edt_phone
 id edt_price1
 id edt_reason
 id edt_road1
-id edt_tittle
+id edt_title
 id edt_username
 id elastic
 id end

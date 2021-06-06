@@ -48,27 +48,7 @@
 
         </TableRow>
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="1">
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:text="Title"
-                android:textSize="18sp" />
-
-            <EditText
-                android:id="@+id/edt_tittle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:layout_weight="1"
-                android:ems="10"
-                android:inputType="textPersonName" />
-        </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
@@ -165,71 +145,56 @@
     </RadioGroup>
 
     <EditText
-        android:id="@+id/edt_city1"
+        android:id="@+id/edt_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_weight="1"
         android:ems="10"
-        android:hint="City"
+        android:hint="Title"
+        android:inputType="textPersonName" />
+    <EditText
+        android:id="@+id/edt_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="Description"
         android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/edt_country"
+        android:id="@+id/edt_address"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_weight="1"
         android:ems="10"
-        android:hint="County Or District"
+        android:hint="Address"
         android:inputType="textPersonName" />
 
-    <EditText
-        android:id="@+id/edt_road1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="5dp"
-        android:layout_weight="1"
-        android:ems="10"
-        android:hint="Road"
-        android:inputType="textPersonName" />
+
 
     <EditText
-        android:id="@+id/edt_price1"
+        android:id="@+id/edt_longitude"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_weight="1"
         android:ems="10"
-        android:hint="Price"
+        android:hint="longitude"
+        android:inputType="number" />
+    <EditText
+        android:id="@+id/edt_latitude"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="latitude"
         android:inputType="number" />
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="5dp"
-        android:layout_weight="1"
-        android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/textView27"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="5dp"
-            android:layout_marginBottom="5dp"
-            android:layout_weight="1"
-            android:text="Description:"
-            android:textSize="18sp" />
-
-        <EditText
-            android:id="@+id/edt_description1"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:textSize="18sp" />
-    </LinearLayout>
 
     <Button
         android:id="@+id/btn_post"

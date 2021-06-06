@@ -1,178 +1,178 @@
 [
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\arrow.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_activity.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_update_activity.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\camera.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepage.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\homepage.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dientich.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\dientich.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diadiem.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\diadiem.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_xemnha.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_xemnha.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_xemnha.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_xemnha.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diadiem.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\diadiem.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_activity.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_chat_activity.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_activity.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_update_activity.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_postactivity.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_postactivity.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_profile.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sort.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\sort.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_postactivity.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_postactivity.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sellhouse.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_sellhouse.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sangtrai.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\sangtrai.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dientich.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\dientich.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sellhouse.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_sellhouse.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nha.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\nha.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\menu.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_maps.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report_activity.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_report_activity.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\camera.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sangphai.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\sangphai.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nha.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\nha.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_registration.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepage.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\homepage.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_activity.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_chat_activity.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_registration.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\map.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report_activity.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_report_activity.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\arrow.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\map.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\menu.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sangtrai.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\sangtrai.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_maps.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subchat_activity2.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_subchat_activity2.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subchat_activity2.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_subchat_activity2.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sangphai.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\sangphai.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sort.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\drawable\\sort.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_menu.xml"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
-        "source": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\src\\main\\res\\layout\\activity_menu.xml"
+        "merged": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\CAP1\\Capstone1.C1SE.06\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

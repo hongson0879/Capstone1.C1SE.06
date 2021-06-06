@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Cap 1\\Capstone1.C1SE.06\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "outputFile": "D:\\CAP1\\Capstone1.C1SE.06\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\KHOA\\.gradle\\caches\\transforms-2\\files-2.1\\a52bfb92d2b276c79d11db281b8aa668\\jetified-play-services-basement-17.0.0\\res\\values-sw\\values.xml",

@@ -3,6 +3,7 @@ package com.example.retp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Dialog;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -56,7 +57,7 @@ public class activity_registration extends AppCompatActivity {
                                     finish();
                                 }
                                 Toast.makeText(activity_registration.this, s, Toast.LENGTH_SHORT).show();
-                                dialog.dismiss();
+
 
                             }
                         }, new Consumer<Throwable>() {
@@ -71,10 +72,10 @@ public class activity_registration extends AppCompatActivity {
             }
         });
     }
-        @Override
-        protected void onStop() {
-            compositeDisposable.clear();
-            super.onStop();
-        }
-
+    @Override
+    protected void onStop() {
+        compositeDisposable.clear();
+        super.onStop();
     }
+
+}

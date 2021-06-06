@@ -49,8 +49,16 @@ public class activity_login extends AppCompatActivity {
                         .subscribe(new Consumer<String>() {
                             @Override
                             public void accept(String s) throws Exception {
+                                if (s.equals("Đăng Nhập Thành Công")) {
+
+                                    finish();
+                                }
                                 Toast.makeText(activity_login.this, s, Toast.LENGTH_SHORT).show();
+                                Intent intent = new Intent(activity_login.this,home.class);
+                                startActivity(intent);
                             }
+
+
                         }, new Consumer<Throwable>() {
                             @Override
                             public void accept(Throwable throwable) throws Exception {
